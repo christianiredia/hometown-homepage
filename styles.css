@@ -1,0 +1,90 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Hahmlet', serif;
+}
+
+img {
+    width: 100px;
+}
+
+.houston {
+    background-image: url("https://tourscanner.com/blog/wp-content/uploads/2021/06/fun-things-to-do-in-Houston.jpg");
+    background-size: cover;
+    padding-bottom: 75px;  
+    padding-top: 90px; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+
+.visit {
+    font-size: 30px;
+    background: #251f47;
+    padding: 5px;
+    border-radius: 10px;
+    margin-bottom: -5px;
+}
+h2 {
+    width: 400px;
+    background: #457B9D;
+    font-size: 20px;
+    padding: 5px 10px;
+    border-radius: 10px;
+}
+
+.three {
+    background: #E9ECF5;
+    margin: 0;
+    padding: 10px
+}
+
+.sights-container {
+    display: flex;   
+    background: #E9ECF5;
+    justify-content: center;
+    
+}
+
+.photo {
+    width: 100px;
+    height: 80px;
+    border-radius: 20px;
+}
+
+.sights {
+    width: 400px;
+   
+    padding: 20px;
+    padding-bottom: 30px;
+}
+
+.sight-title {
+    font-weight: bold;
+}
+
+.card { 
+    background: #C8D1EE;
+    width: 350px;
+    margin: 30px auto;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 30px;
+    border-radius: 10px;
+    border-bottom: 5px solid #FD5E08;
+    
+}
+
+.card-text {
+    width: 200px;
+}
+
+.me {
+    padding-top: 55px;
+}
+
+.bold {
+    font-weight: bold;
+}
